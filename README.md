@@ -1,6 +1,6 @@
 ## A Laravel Database Project
 
-This is a small Laravel database project.
+This is a small Laravel database project that focuses on database migrations, model factories, model seeding and eloquent relationships (relationships between data models). The app allows the user to see all posts or the posts for a particular user. It is also possible to make a post, comment on a post and like a post. Bear in mind that this project is a bit basic. 
 
 Check out this project!
 
